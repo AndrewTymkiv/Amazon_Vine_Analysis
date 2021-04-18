@@ -16,12 +16,15 @@ While performing this analysis, the three main questions were:
 These were the results that answered these questions:
 
 1. In total, there were 40,565 helpful reviews for the video game products on Amazon. Of that total, only 94 reviews were Vine reviews, while the other 40,471 were non-Vine reviews.
+
 ![number_reviews](https://github.com/AndrewTymkiv/Amazon_Vine_Analysis/blob/main/images/number_reviews.PNG)
 
 2. In total, there were 15,711 5-star reviews for the video game products. Of that total, only 48 reviews were Vine reviews, while the other 15,663 were non-Vine reviews.
+
 ![number_5star](https://github.com/AndrewTymkiv/Amazon_Vine_Analysis/blob/main/images/number_5star.PNG)
 
 3. 51.06% of Vine reviews were 5-star reviews. Only 38.7% of the non-Vine reviews were 5-star reviews.
+
 ![percent_5star](https://github.com/AndrewTymkiv/Amazon_Vine_Analysis/blob/main/images/percent_5star.PNG)
 
 ---
